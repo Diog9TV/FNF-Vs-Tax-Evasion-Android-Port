@@ -1,0 +1,32 @@
+{
+	"storyName": "spamton",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "shop",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"tax-evasion",
+			"spam",
+			[
+				255,
+				250,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "tax-evasion"
+}
