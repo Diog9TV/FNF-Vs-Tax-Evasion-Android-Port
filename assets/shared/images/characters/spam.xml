@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spam.png">
+<SubTexture name="spam down0000" x="1465" y="2814" width="486" height="631" frameX="-3" frameY="-19" frameWidth="489" frameHeight="650" />
+<SubTexture name="spam down0001" x="1951" y="2814" width="488" height="624" frameX="-1" frameY="-26" frameWidth="489" frameHeight="650" />
+<SubTexture name="spam down0002" x="2439" y="2814" width="489" height="621" frameX="0" frameY="-29" frameWidth="489" frameHeight="650" />
+<SubTexture name="spam down0003" x="2439" y="2814" width="489" height="621" frameX="0" frameY="-29" frameWidth="489" frameHeight="650" />
+<SubTexture name="spam down0004" x="980" y="2814" width="485" height="643" frameX="-4" frameY="-7" frameWidth="489" frameHeight="650" />
+<SubTexture name="spam down0005" x="498" y="2814" width="482" height="650" frameX="-7" frameY="0" frameWidth="489" frameHeight="650" />
+<SubTexture name="spam idle0000" x="1190" y="2118" width="493" height="689" frameX="-5" frameY="-9" frameWidth="498" frameHeight="698" />
+<SubTexture name="spam idle0001" x="3209" y="0" width="495" height="677" frameX="-3" frameY="-21" frameWidth="498" frameHeight="698" />
+<SubTexture name="spam idle0002" x="0" y="2814" width="498" height="675" frameX="0" frameY="-23" frameWidth="498" frameHeight="698" />
+<SubTexture name="spam idle0003" x="1996" y="1418" width="493" height="691" frameX="-5" frameY="-7" frameWidth="498" frameHeight="698" />
+<SubTexture name="spam idle0004" x="2512" y="698" width="491" height="697" frameX="-7" frameY="-1" frameWidth="498" frameHeight="698" />
+<SubTexture name="spam idle0005" x="1914" y="702" width="489" height="698" frameX="-9" frameY="0" frameWidth="498" frameHeight="698" />
+<SubTexture name="spam left0000" x="0" y="711" width="578" height="707" frameX="-23" frameY="0" frameWidth="625" frameHeight="711" />
+<SubTexture name="spam left0001" x="578" y="711" width="581" height="703" frameX="-11" frameY="-4" frameWidth="625" frameHeight="711" />
+<SubTexture name="spam left0002" x="710" y="1418" width="586" height="698" frameX="0" frameY="-9" frameWidth="625" frameHeight="711" />
+<SubTexture name="spam left0003" x="710" y="1418" width="586" height="698" frameX="0" frameY="-9" frameWidth="625" frameHeight="711" />
+<SubTexture name="spam left0004" x="598" y="2118" width="592" height="695" frameX="-13" frameY="-12" frameWidth="625" frameHeight="711" />
+<SubTexture name="spam left0005" x="2512" y="1395" width="592" height="696" frameX="-33" frameY="-15" frameWidth="625" frameHeight="711" />
+<SubTexture name="spam right0000" x="598" y="0" width="718" height="708" frameX="-6" frameY="0" frameWidth="728" frameHeight="708" />
+<SubTexture name="spam right0001" x="1159" y="711" width="720" height="703" frameX="-8" frameY="-5" frameWidth="728" frameHeight="708" />
+<SubTexture name="spam right0002" x="0" y="1418" width="710" height="700" frameX="-10" frameY="-8" frameWidth="728" frameHeight="708" />
+<SubTexture name="spam right0003" x="0" y="1418" width="710" height="700" frameX="-10" frameY="-8" frameWidth="728" frameHeight="708" />
+<SubTexture name="spam right0004" x="1296" y="1418" width="700" height="698" frameX="-6" frameY="-10" frameWidth="728" frameHeight="708" />
+<SubTexture name="spam right0005" x="2512" y="0" width="697" height="698" frameX="0" frameY="-10" frameWidth="728" frameHeight="708" />
+<SubTexture name="spam static0000" x="3209" y="677" width="493" height="653" frameX="0" frameY="0" frameWidth="493" frameHeight="653" />
+<SubTexture name="spam static0001" x="3209" y="677" width="493" height="653" frameX="0" frameY="0" frameWidth="493" frameHeight="653" />
+<SubTexture name="spam static0002" x="3209" y="1330" width="493" height="653" frameX="0" frameY="0" frameWidth="493" frameHeight="653" />
+<SubTexture name="spam static0003" x="3209" y="1330" width="493" height="653" frameX="0" frameY="0" frameWidth="493" frameHeight="653" />
+<SubTexture name="spam static0004" x="3209" y="1983" width="493" height="653" frameX="0" frameY="0" frameWidth="493" frameHeight="653" />
+<SubTexture name="spam static0005" x="3209" y="1983" width="493" height="653" frameX="0" frameY="0" frameWidth="493" frameHeight="653" />
+<SubTexture name="spam up0000" x="0" y="2118" width="598" height="696" frameX="0" frameY="-15" frameWidth="598" frameHeight="711" />
+<SubTexture name="spam up0001" x="1316" y="0" width="598" height="708" frameX="0" frameY="-3" frameWidth="598" frameHeight="711" />
+<SubTexture name="spam up0002" x="0" y="0" width="598" height="711" frameX="0" frameY="0" frameWidth="598" frameHeight="711" />
+<SubTexture name="spam up0003" x="0" y="0" width="598" height="711" frameX="0" frameY="0" frameWidth="598" frameHeight="711" />
+<SubTexture name="spam up0004" x="1914" y="0" width="598" height="702" frameX="0" frameY="-9" frameWidth="598" frameHeight="711" />
+<SubTexture name="spam up0005" x="1683" y="2118" width="598" height="685" frameX="0" frameY="-26" frameWidth="598" frameHeight="711" />
+<SubTexture name="spam up0006" x="2281" y="2118" width="598" height="685" frameX="0" frameY="-26" frameWidth="598" frameHeight="711" />
+</TextureAtlas>

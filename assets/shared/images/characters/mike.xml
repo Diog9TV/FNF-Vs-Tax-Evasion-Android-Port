@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mike.png">
+<SubTexture name="mike down0000" x="0" y="640" width="376" height="587" frameX="0" frameY="0" frameWidth="366" frameHeight="577" />
+<SubTexture name="mike down0001" x="376" y="640" width="376" height="587" frameX="0" frameY="0" frameWidth="366" frameHeight="577" />
+<SubTexture name="mike down0002" x="752" y="640" width="376" height="585" frameX="0" frameY="-2" frameWidth="366" frameHeight="577" />
+<SubTexture name="mike down0003" x="1128" y="640" width="376" height="585" frameX="0" frameY="-2" frameWidth="366" frameHeight="577" />
+<SubTexture name="mike idle0000" x="1880" y="1090" width="376" height="445" frameX="0" frameY="0" frameWidth="366" frameHeight="435" />
+<SubTexture name="mike left0000" x="1504" y="0" width="376" height="566" frameX="0" frameY="0" frameWidth="366" frameHeight="556" />
+<SubTexture name="mike left0001" x="1504" y="566" width="376" height="565" frameX="0" frameY="-1" frameWidth="366" frameHeight="556" />
+<SubTexture name="mike left0002" x="0" y="1227" width="376" height="560" frameX="0" frameY="-6" frameWidth="366" frameHeight="556" />
+<SubTexture name="mike left0003" x="376" y="1227" width="376" height="558" frameX="0" frameY="-8" frameWidth="366" frameHeight="556" />
+<SubTexture name="mike right0000" x="1880" y="546" width="382" height="544" frameX="0" frameY="-7" frameWidth="372" frameHeight="541" />
+<SubTexture name="mike right0001" x="1880" y="0" width="382" height="546" frameX="0" frameY="-5" frameWidth="372" frameHeight="541" />
+<SubTexture name="mike right0002" x="1130" y="1227" width="379" height="550" frameX="0" frameY="-1" frameWidth="372" frameHeight="541" />
+<SubTexture name="mike right0003" x="752" y="1227" width="378" height="551" frameX="0" frameY="0" frameWidth="372" frameHeight="541" />
+<SubTexture name="mike up0000" x="752" y="0" width="376" height="639" frameX="0" frameY="-1" frameWidth="366" frameHeight="630" />
+<SubTexture name="mike up0001" x="1128" y="0" width="376" height="639" frameX="0" frameY="-1" frameWidth="366" frameHeight="630" />
+<SubTexture name="mike up0002" x="0" y="0" width="376" height="640" frameX="0" frameY="0" frameWidth="366" frameHeight="630" />
+<SubTexture name="mike up0003" x="376" y="0" width="376" height="640" frameX="0" frameY="0" frameWidth="366" frameHeight="630" />
+</TextureAtlas>
