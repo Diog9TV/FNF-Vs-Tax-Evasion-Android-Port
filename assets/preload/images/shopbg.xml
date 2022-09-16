@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shopbg.png">
+<SubTexture name="shopbg idle0000" x="0" y="0" width="1583" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0001" x="0" y="0" width="1583" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0002" x="1583" y="0" width="1587" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0003" x="1583" y="0" width="1587" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0004" x="0" y="1208" width="1597" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0005" x="0" y="1208" width="1597" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0006" x="3170" y="0" width="1637" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0007" x="3170" y="0" width="1637" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0008" x="0" y="2416" width="1657" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0009" x="0" y="2416" width="1657" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0010" x="1657" y="2416" width="1667" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0011" x="1657" y="2416" width="1667" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0012" x="4807" y="0" width="1673" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0013" x="4807" y="0" width="1673" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0014" x="0" y="3624" width="1675" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0015" x="0" y="3624" width="1675" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0016" x="4807" y="1208" width="1665" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0017" x="4807" y="1208" width="1665" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0018" x="4807" y="2416" width="1641" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0019" x="4807" y="2416" width="1641" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0020" x="3170" y="1208" width="1606" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0021" x="3170" y="1208" width="1606" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0022" x="1675" y="3624" width="1594" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0023" x="1675" y="3624" width="1594" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0024" x="3269" y="3624" width="1591" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0025" x="3269" y="3624" width="1591" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0026" x="4860" y="3624" width="1584" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0027" x="4860" y="3624" width="1584" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0028" x="1597" y="1208" width="1559" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+<SubTexture name="shopbg idle0029" x="1597" y="1208" width="1559" height="1208" frameX="0" frameY="0" frameWidth="1763" frameHeight="1206" />
+</TextureAtlas>
