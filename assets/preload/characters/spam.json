@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "spam idle"
+		},
+		{
+			"offsets": [
+				150,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "spam left"
+		},
+		{
+			"offsets": [
+				0,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "spam down"
+		},
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "spam up"
+		},
+		{
+			"offsets": [
+				-20,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "spam right"
+		},
+		{
+			"offsets": [
+				-5,
+				-44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "static",
+			"loop": true,
+			"name": "spam static"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spam",
+	"position": [
+		-30,
+		0
+	],
+	"healthicon": "spam",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

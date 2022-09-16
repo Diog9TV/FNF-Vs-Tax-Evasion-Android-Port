@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mike idle"
+		},
+		{
+			"offsets": [
+				0,
+				108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mike left"
+		},
+		{
+			"offsets": [
+				0,
+				155
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mike down"
+		},
+		{
+			"offsets": [
+				0,
+				165
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mike up"
+		},
+		{
+			"offsets": [
+				0,
+				115
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mike right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mike",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-100,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
